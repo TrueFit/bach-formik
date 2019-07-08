@@ -1,0 +1,46 @@
+{
+  "name": "@truefit/bach-formik",
+  "version": "1.0.0",
+  "description": "compose your formik based components in style",
+  "main": "lib/index.js",
+  "scripts": {
+    "compile": "node tools/build.js",
+    "prepare": "npm run compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TrueFit/bach-formik.git"
+  },
+  "author": "Josh Gretz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrueFit/bach-formik/issues"
+  },
+  "browserslist": [
+    "defaults"
+  ],
+  "homepage": "https://github.com/TrueFit/bach-formik#readme",
+  "dependencies": {
+    "@truefit/bach": "^1.0.10",
+    "formik": "^1.5.7",
+    "react": "^16.8.6",
+    "react-fast-compare": "^2.0.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.0",
+    "@babel/core": "^7.5.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.5.1",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/preset-env": "^7.5.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.0.1",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-react": "^7.14.2",
+    "eslint-plugin-react-hooks": "^1.6.1",
+    "nodemon": "^1.19.1",
+    "prettier": "^1.18.2",
+    "shelljs": "^0.8.3"
+  }
+}
