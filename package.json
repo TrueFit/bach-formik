@@ -1,6 +1,6 @@
 {
   "name": "@truefit/bach-formik",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "compose your formik based components in style",
   "main": "lib/index.js",
   "scripts": {
