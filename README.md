@@ -5,13 +5,13 @@ This library allows components composed with [@truefit/bach](https://github.com/
 ## Installation
 
 ```
-npm install @truefit/bach-formik
+npm install @truefit/bach-formik formik
 ```
 
 or
 
 ```
-yarn add @truefit/bach-formik
+yarn add @truefit/bach-formik formik
 ```
 
 ## Enhancers
