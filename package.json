@@ -30,6 +30,7 @@
     "formik": "^2.x"
   },
   "devDependencies": {
+    "@truefit/bach": "2.x",
     "@types/node": "^13.9.0",
     "@types/react": "^16.9.23",
     "@typescript-eslint/eslint-plugin": "^2.22.0",
