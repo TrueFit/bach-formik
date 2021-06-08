@@ -1,6 +1,6 @@
 {
   "name": "@truefit/bach-formik",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "compose your formik based components in style",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -26,7 +26,7 @@
   ],
   "homepage": "https://github.com/TrueFit/bach-formik#readme",
   "peerDependencies": {
-    "@truefit/bach": "2.0.5",
+    "@truefit/bach": "2.x",
     "formik": "2.x"
   },
   "devDependencies": {
